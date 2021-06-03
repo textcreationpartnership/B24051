@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand-jury-man's oath and office explained, and the rights of English-men asserted a dialogue between a barrister at law and a grand-jury man.</title>
+            <author>Hawles, John, Sir, 1645-1716.</author>
+         </titleStmt>
+         <extent>Approx. 32KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24051</idno><idno type="EEBO-CITATION">12251390</idno>
+  <idno type="VID">57093</idno>
+  <idno type="EEBO-PROQUEST">2240960995</idno>
+  
+            <idno type="STC">Wing H1187</idno>
+            <idno type="STC">ESTC R6573</idno>
+            <idno type="OCLC">12251390</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57093)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 143:4f)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand-jury-man's oath and office explained, and the rights of English-men asserted a dialogue between a barrister at law and a grand-jury man.</title>
+                  <author>Hawles, John, Sir, 1645-1716.</author>
+               </titleStmt>
+               <extent>[2], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Sir John Hawles. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Jury --  Great Britain --  Popular works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Zev Berger </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Zev Berger</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57093:161"/>
+            <p>THE Grand-Jury-Man's OATH and OFFICE EXPLAINED: AND THE <hi>Rights of English-Men</hi> ASSERTED.</p>
+            <p>A DIALOGUE BETWEEN <hi>A Barrister at Law,</hi> AND A Grand-Jury-Man.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Langley Curtis,</hi> near <hi>Fleet-Bridge</hi> upon <hi>Ludgate-Hill.</hi> 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57093:162"/>
+            <pb n="1" facs="tcp:57093:162"/>
+            <head>THE <hi>Grand-Iury-Man's</hi> OATH and OFFICE EXPLAINED: AND THE Rights of English-Men ASSERTED.</head>
+            <sp>
+               <speaker>Grand Jury-man.</speaker>
+               <p>SIr! I am Summon'd to be one of the <hi>Grand Inquest,</hi> and I would will<g ref="char:EOLhyphen"/>ingly beg some Information from you touching the nature of that Service by Law.</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>I shall readily gratifie so Just a Re<g ref="char:EOLhyphen"/>quest,
+<pb n="2" facs="tcp:57093:163"/>being glad to hear you solicitous to <hi>under<g ref="char:EOLhyphen"/>stand</hi> fully your duty: For that shews your Resolu<g ref="char:EOLhyphen"/>tion to <hi>perform</hi> it Conscientiously. Therefore to come to the matter.</p>
+               <p>By the Law of <hi>England</hi> no person (except in a <hi>few</hi> extraordinary Cases needless to trouble you with) can be <hi>Convicted</hi> of any Crime, but there must first <hi>two Juries</hi> pass upon him.</p>
+               <p n="1">1. The <hi>Grand Jury,</hi> who Presents the offence on the behalf of the King.</p>
+               <p n="2">2. The <hi>Petty Jury</hi> [in Cases Capital, call'd <hi>the Jury of Life and Death</hi>] who are to try the matter of such Presentment between the King and the Party accused.</p>
+               <p>The first of these is properly call'd, <hi>The Grand</hi> [or Great] <hi>Jury</hi> in a threefold respect.</p>
+               <p n="1">1. For their <hi>Number,</hi> other Juries consist but of 12 men; This of more, as 17, 19, 23, or the like.</p>
+               <p n="2">2. For their <hi>Quality,</hi> because they generally are and ought to be Persons of more than ordinary Ac<g ref="char:EOLhyphen"/>count, Estates, Understanding, <hi>&amp;c.</hi>
+               </p>
+               <p n="3">3. For the <hi>Extent of their Office</hi> or Duty, being
+<pb n="3" facs="tcp:57093:163"/>Jurors for the King for the whole Body of that County for which they serve; And have power to Present all offences whatsoever committed therein, That are against the Kings Peace, Crown and Dignity.</p>
+            </sp>
+            <sp>
+               <speaker>Gr. Jury-man.</speaker>
+               <p>Well then, The Grand Jury is the <hi>Great Spring,</hi> or <hi>Primum Mobile</hi> of the Court, that gives motion to all the other Wheels in Pro<g ref="char:EOLhyphen"/>secutions Criminal, Their Presentment being the <hi>Key</hi> that either opens or shuts the proceedings of the Court in every Offence.</p>
+            </sp>
+            <sp>
+               <speaker>Barr.</speaker>
+               <p>You take it right, and therefore the Law provides, That they be <hi>probi &amp; legales Homines, good and lawful Men.</hi>
+               </p>
+               <p n="1">1. Each of them must be <hi>probus (quasi probatus)</hi> an <hi>approved honest Man,</hi> faithful and skilful.</p>
+               <p n="2">2. He must be <hi>Legalis</hi> too, a <hi>lawful Person,</hi> that is not outlaw'd, of good Fame and Credit, No Ali<g ref="char:EOLhyphen"/>en, but a Leige-Subject of <hi>England;</hi> For the Free People of <hi>England</hi> by Law can only be Presented and Tryed <hi>per Pares</hi> by their Equals and fellow-Subjects.</p>
+            </sp>
+            <pb n="4" facs="tcp:57093:164"/>
+            <sp>
+               <speaker>Gr. Jury-man.</speaker>
+               <p>I perceive then the Law Reposes a great Trust in a Grand-Jury for the discovery of Offences, and that in their hands the Reputation and Peace of their Neighbours and fellow-subjects does much Consist. Therefore to understand their Duty the better, I desire you to recite unto me the Oath that is usually Administred unto them.</p>
+            </sp>
+            <sp>
+               <speaker>Barr.</speaker>
+               <p>Very opportunely thought on, I was Just coming to it; Here it is, read it your self delibe<g ref="char:EOLhyphen"/>rately.</p>
+            </sp>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath of a <hi>Grand Juror.</hi>
+                        </head>
+                        <p>
+                           <hi>YOU shall diligently Inquire, and true Presentment make of all such things and matters as shall be given you in Charge, or shall come to your Knowledge concerning this present Service. The Kings Counsel, your Fellows, and your own, you shall well and truly keep secret. You shall Present nothing for Malice, or Evil Will that you bear to any Person; Neither shall you leave any thing Unpresented for Love, Favour, Affection, Reward, or any hopes thereof. But in all things that shall Concern this present service, you shall Present the Truth, the whole Truth, and nothing but the Truth, according to your best skill and knowledge;</hi> So help you God.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="5" facs="tcp:57093:164"/>
+            <sp>
+               <speaker>Gr. Jury-man.</speaker>
+               <p>But I would gladly hear the parti<g ref="char:EOLhyphen"/>culars of this Oath a little explained.</p>
+            </sp>
+            <sp>
+               <speaker>Barr.</speaker>
+               <p>Observe then its several Branches.</p>
+               <p n="1">1. <hi>You shall diligently Inquire and true Presentment make;</hi> Hereby they are oblig'd to Enquire, and that diligently, not to be slothful, or negligent, not to take things upon Trust, or hurry them over carelessly; but to proceed on a mature and strict Examination, and then to make true Present<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="2">2. <hi>Of all such things and matters as shall be given you in Charge, or shall come to your knowledge.</hi> Here is laid down the Subject-matter of their Inquiry. By <hi>Matters and Things,</hi> must be understood, All offen<g ref="char:EOLhyphen"/>ces against the Law by them Inquirable of, As Treasons, Murders, Felonies, Perjuries, Forgeries, Misdemeanours, <hi>&amp;c.</hi> Which are commonly summ'd up to them in the Speech [or <hi>Charge</hi>] of the Judge. All and every such offences which either they know of their <hi>own knowledge,</hi> or which shall appear to them by the <hi>Testimonies</hi> of others, they are to Present.</p>
+               <p n="3">3. <hi>The Kings Counsel, your Fellows, and your own, you shall well and truely keep secret.</hi> By the Kings Coun<g ref="char:EOLhyphen"/>sel
+<pb n="6" facs="tcp:57093:165"/>(I conceive) is to be understood, the <hi>Evidence of Witnesses</hi> that shall be produced to them on the Kings behalf; This must not be Revealed or Dis<g ref="char:EOLhyphen"/>covered by the Grand Jurors, but kept secret from the Person concern'd, his Friends and all others, the Reason whereof seems to be this; Their Pre<g ref="char:EOLhyphen"/>sentment is but of the Nature of an <hi>Accusation,</hi> or Charge. Now if they, having heard and Exa<g ref="char:EOLhyphen"/>mined the Witnesses should divulge the Particu<g ref="char:EOLhyphen"/>lars, and wherein the Force of the Evidence lies; Then might the Party prosecuted (perhaps a Trai<g ref="char:EOLhyphen"/>tor, Muderer or Felon) take an opportunity to <hi>Fly</hi> from Justice; (For many times the Criminal is not apprehended, or is out upon <hi>Bail</hi> till after the Bill found by the Grand Inquest,) or at least there might thereupon be some <hi>Tampering</hi> or Indirect Practises used to take off, or <hi>Sweeten</hi> the Evidence when it comes to be Tryed by the Petty Jury.</p>
+               <p>Nor are they to discover what any <hi>one</hi> or more amongst themselves have together Counsell'd, ad<g ref="char:EOLhyphen"/>vised, or debated in the Business before them. Be<g ref="char:EOLhyphen"/>cause the same might <hi>discourage</hi> particular Members of such Juries from giving freely their Opinions in discharge of their Consciences, and render them liable to Malice, Reflections, <hi>&amp;c.</hi> And therefore
+<pb n="7" facs="tcp:57093:165"/>if a Jury be agreed, and the Court perhaps not pleased with their Verdict, should take upon them to ask, <hi>Which of the Jury-men were first or most earnest for finding it thus or thus?</hi> I conceive the same and all other Inquiries of that kind to be utterly un<g ref="char:EOLhyphen"/>lawful; That the Jurors are not bound by Law to answer thereunto, but oblig'd by their Oath to the contrary.</p>
+               <p n="4">4. <hi>You shall Present nothing for malice &amp;c.</hi> Having set forth what they are to doe, the Oath next pre<g ref="char:EOLhyphen"/>scribes with what <hi>Integrity</hi> and Impartiality they are to do it, excluding all Malice and Revenge on the one hand, and all Favour and Affection on the other.</p>
+               <p n="5">5. <hi>But in all things you shall Present the Truth, the whole Truth, and nothing but the Truth.</hi> The <hi>Truth;</hi> that is, Truth sufficient to make a just Accusation against a nocent Person. <hi>The whole Truth;</hi> not concealing wilfully any Crime that appears to them. <hi>And nothing but the Truth;</hi> That is, no known falsity, no false Accusation against any Person must be Presented, to bring an Innocent Person into disgrace and Jeopardy, so as to force him to take a Tryal where it does not appear, That he hath committed any Crime, or where there is not any sufficient Accusation, or where the Fact charged
+<pb n="8" facs="tcp:57093:166"/>(If in it self Criminal) is yet not so fixt upon him by any probable Evidence, as deservedly to expose him to a Tryal for it.</p>
+            </sp>
+            <sp>
+               <speaker>Grand-Jury-man.</speaker>
+               <p>But since the Grand-Jurors are thus sworn to present Truth, and nothing but the Truth; And yet Experience shows, That very frequently the Party prosecuted is really <hi>not Guilty,</hi> and so found by the Petty Jury, though the former have presented the Indictment against him to be <hi>Billa Vera,</hi> a <hi>True Bill,</hi> I dernand how these Oaths of the Two can consist together, and with a safe Conscience?</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>Though there may seem (<hi>primâ facie</hi> on first thoughts) some <hi>Contradiction</hi> between the two Verdicts, yet really there is none; But both may be true in their several proper <hi>Respects,</hi> and safely, that is, honestly given. I may (for cer<g ref="char:EOLhyphen"/>tain weighty Reasons and Proofs that I have con<g ref="char:EOLhyphen"/>sidered) <hi>verily believe,</hi> That <hi>A. B.</hi> is Guilty of such a Murder or Robbery, and therefore for the Exe<g ref="char:EOLhyphen"/>cution of Justice (that Glory and Safety of a King<g ref="char:EOLhyphen"/>dom) I may <hi>swear</hi> that I believe so, and judge it my Duty to Present him, That he may be Legally <hi>Tryed</hi> for such Crime; And yet It may be possible
+<pb n="9" facs="tcp:57093:166"/>that he is all this while <hi>Innocent,</hi> And perhaps when I come to hear his <hi>Defence, I may think so too;</hi> Yet have I not herein done him, or my own Consci<g ref="char:EOLhyphen"/>ence any wrong.</p>
+               <p>The Grand Jurors work, I told you, is no more in its own Nature, than to Present Offences which they find <hi>fit for a Tryal.</hi> They hear only one side, <hi>viz.</hi> The witnesses <hi>against the Prisoner,</hi> and do not, nay cannot, hear any thing in his <hi>Defence;</hi> Nor to Confront or weaken the Evidence brought a<g ref="char:EOLhyphen"/>gainst him, and so cannot be intended to give in more than a <hi>verisimilary</hi> or <hi>probable</hi> Charge; which by what they have heard, they do aver upon their Oaths, does seem to them to be <hi>Just and true,</hi> and fit for Justice to take Cognizance of. And therefore by their Oath you see, they are oblig'd to make true Presentments <hi>concerning this present service</hi> [that is, according as the nature of their present Service in the Capacity of a Grand Jury re<g ref="char:EOLhyphen"/>quires] and also their Oath in the End is qualified, <hi>[According to their best skill and knowledge]</hi> which denotes not an absolute Certainty, but so as things appear.</p>
+               <p>And for the same Reason it is, That in the Re<g ref="char:EOLhyphen"/>cord, The Grand Juries finding a Bill is Entred <hi>Juratores pro domino Rege praesentant, The Jurors for our
+<pb n="10" facs="tcp:57093:167"/>Lord the King do PRESENT;</hi> [that is, Inform, Charge or by way of Accusation on Just and Reasonable Grounds urge and put to Answer] But the Verdict of the Petty Jury is Recorded thus, <hi>Juratores dicunt,</hi> The Jurors positively <hi>SAY</hi> or <hi>Affirm.</hi> And when afterwards on Tryal any man is Acquitted or Con<g ref="char:EOLhyphen"/>victed, The Record runs thus, The Jurors say, That <hi>A. B.</hi> is Guilty [or not Guilty] of the Felo<g ref="char:EOLhyphen"/>ny aforesaid in the Indictment aforesaid specified, which <hi>Ei superius imponitur,</hi> is above <hi>laid or Charg'd</hi> upon him in manner and form as by the Indict<g ref="char:EOLhyphen"/>ment aforesaid, <hi>superius versus eum supponitur, Is a<g ref="char:EOLhyphen"/>bove against him supposed.</hi> So that you see here, the Law it self Construes the Bill found by the Grand Jury to be only a laying on, or probable Charging of a Crime, and speaks of it but as a sup<g ref="char:EOLhyphen"/>position; so that by <hi>Billa vera,</hi> can only be un<g ref="char:EOLhyphen"/>derstood a Bill that appears to have Truth in it, necessary to be tryed, and fit for the Enquiry of a<g ref="char:EOLhyphen"/>nother Jury; The Adjective, <hi>Vera,</hi> in this place not so strictly signifying <hi>True,</hi> as <hi>meet,</hi> fit, or reasona<g ref="char:EOLhyphen"/>ble; And so 'tis used sometimes by Authors, as <hi>verum est</hi> in <hi>Terence,</hi> which Grammarians render, <hi>it is fit,</hi> or you <hi>speak Reason.</hi>
+               </p>
+               <p>And therefore on the other side, they never en<g ref="char:EOLhyphen"/>dorse upon those Bills they do not find [<hi>Billa
+<pb n="11" facs="tcp:57093:167"/>Falsa,</hi> that is, a false Bill,] but modestly write, <hi>Igno<g ref="char:EOLhyphen"/>ramus,</hi> which signifies, They are Ignorant of the matter in the Bill, and that they find <hi>no Cause</hi> either from what they have heard from the Witnesses, or know of their own knowledge to Commend it to a further Inquiry, or to put the party on any Try<g ref="char:EOLhyphen"/>al.</p>
+            </sp>
+            <sp>
+               <speaker>Grand Jury-man.</speaker>
+               <p>If this be all, it seems Grand Ju<g ref="char:EOLhyphen"/>rors need not much scruple the finding of most Bills brought before them.</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>Not too fast, you have heard by their Oath they are <hi>diligently to Inquire;</hi> And these words, <hi>Truth and nothing but the Truth,</hi> have great weight and Obligation. They must therefore have some knowledge or good probable proof on Oath, on which they verily believe the matter <hi>deserving Try<g ref="char:EOLhyphen"/>al,</hi> and the Party <hi>Guilty,</hi> or else they cannot in Con<g ref="char:EOLhyphen"/>science Endorse a <hi>Billa vera.</hi> For if they should do it without such just and lawful Inducements, they apparently violate their Oath, and withall are highly Guilty of Injustice towards their Neigh<g ref="char:EOLhyphen"/>bour in preferring a <hi>causeless Accusation</hi> against him, whereby his Credit is impaired, his Life Liberty or Estate exposed unnecessarily to the <hi>hazard,</hi> trou<g ref="char:EOLhyphen"/>ble,
+<pb n="12" facs="tcp:57093:168"/>and charge of a Tryal, <hi>&amp;c.</hi> Wherein if by any Ill practice with, or the Ignorance of the <hi>Petty Ju<g ref="char:EOLhyphen"/>ry,</hi> he should be <hi>Convicted</hi> (when Innocent) though such Petty Jury would be most Immediately con<g ref="char:EOLhyphen"/>cern'd, yet the Grand Jurors too cannot be Excused from a <hi>sad share</hi> in the Guilt of the <hi>Blood,</hi> or Ruine of such an Innocent Person and his Family; For, <hi>Qui non prohibet cum potest, jubet, He that doth not hinder Injustice when it lies in his Power, Commits it;</hi> And it was by reason of their inconsiderate groundless Presentment, and finding <hi>Billa vera</hi> where they had no Just Cause so to do, that occasion'd the mischief; For without <hi>That,</hi> it could never have happen'd.</p>
+            </sp>
+            <sp>
+               <speaker>Grand-Jury-man.</speaker>
+               <p>You have very well satisfied me in these Particulars; But suppose a Bill should be brought before the Grand-Jury, wherein a man is accused for doing <hi>some Act that is</hi> in it self no Crime; Only in the Indictment it is called <hi>Trea<g ref="char:EOLhyphen"/>son, Sedition,</hi> or <hi>Misdemeanor,</hi> and said to be done <hi>falsly and maliciously,</hi> with an Intent to raise Sedition, bring the Government into Contempt, <hi>&amp;c.</hi> Now if it happen that the particular and <hi>Naked Fact be proved,</hi> But that the same is Treason, Sedition or Misdemeanour is not declared by any Law, nor
+<pb n="13" facs="tcp:57093:168"/>yet does it appear by any proof that it was done with any such <hi>ill mind,</hi> or <hi>criminal Intention,</hi> what must the Grand Jury do in this Case?</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>If the matter charg'd be (as you put it) no Crime in it self by Law, then though it be never so much branded with such aggravating terms, yet since the same do in no kind appear to the Jury to be deserved, they must undoubtedly retorn an <hi>Ignoramus;</hi> For you have heard, That their work and the main Scope of their Oath, is to Present such matters as appear to them <hi>fit for Justice to take Cognizance of;</hi> But where they are satisfied, that there is no such Crime, if they should Endorse a <hi>Billa vera,</hi> and so put a person, whom in their Consciences they think Innocent, (because nothing appears to them to the contrary,) to the hazard, charge and trouble of a Tryal, It were a plain vio<g ref="char:EOLhyphen"/>lation of their Oath, and unjust as aforesaid.</p>
+            </sp>
+            <sp>
+               <speaker>Grand-Jury-man.</speaker>
+               <p>But this were for them to take upon themselves the <hi>knowledge of the Law;</hi> Now I have heard people say, Juries are only to Judge <hi>of matter of Fact.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>Jurors are to consider <hi>both Law and Fact,</hi>
+                  <pb n="14" facs="tcp:57093:169"/>or else they will never deliver just and lawful Ver<g ref="char:EOLhyphen"/>dicts. To what purpose does the Law provide, that Jurors should be so well qualified as to Estate, Understanding, and Sufficiency; And so strictly sworn, but only to detect Offenders, and preserve the Innocent from needless vexation and trouble? How far Juries are Judges of Law as well as of Fact, is pretty well set forth in a small treatise lately publisht, Intituled, <hi>The Englishmans Right,</hi> To which (as well worth every true Englishmans Reading) I refer you for further Information. Only to satisfie you at present, I shall desire you but to consider of the sad Consequences that would follow, this conceit, That Juries must ne<g ref="char:EOLhyphen"/>cessarily find every Indictment where the bare mat<g ref="char:EOLhyphen"/>ter of Fact (be it what it will) is proved, without Inquiring into, and weighing the Nature of that Fact, or retorning <hi>Ignoramus</hi> where they find the same <hi>Not Criminal.</hi>
+               </p>
+               <p>Suppose a Bill were exhibited against <hi>A. B.</hi> for <hi>Treason,</hi> for looking on the <hi>Tombs at Westminster,</hi> or of high <hi>Misdemeanour</hi> for <hi>taking a Pipe of Tobacco, fal<g ref="char:EOLhyphen"/>sly wickedly and maliciously, with an Intent to Infect the Air, and destroy his Majesties Leige-Subjects with perni<g ref="char:EOLhyphen"/>cious Vapors;</hi> And it were very fully prov'd, <hi>That he indeed lookt upon the Royal Tombs,</hi> or did <hi>whiff the
+<pb n="15" facs="tcp:57093:169"/>Pipe;</hi> but nothing of any such design of <hi>Poysoning</hi> the People thereby, appears in Proof; Now would you, or any Grand-Jury-man that wears five Senses and <hi>a Soul</hi> about him, retorn a <hi>Billa vera</hi> on these Indictments? And yet here the matter of Fact is prov'd, and by these mens unreasonable Reason<g ref="char:EOLhyphen"/>ings you should be bound to find it.</p>
+               <p>Again, Imagine an Indictment brought against a Person setting forth, <hi>That he falsly and maliciously and with an Intent to create and foment Rebellion, Sediti<g ref="char:EOLhyphen"/>on, Divisions and Distractions amongst the People of England, did cause to be printed and Published in the English Tongue, a certain Book called, The BIBLE;</hi> And it be proved by an Hundred and Fifty Wit<g ref="char:EOLhyphen"/>nesses, that he did indeed Print and publish the <hi>Ho<g ref="char:EOLhyphen"/>ly Book,</hi> yet would not you rather have your hand Rot off, than with it to Subscribe <hi>Billa vera</hi> here? But if this opinion were true, you should be bound to do it, or else be Clamour'd and Hector'd at, as if you were Guilty of the blackest Perjury.</p>
+               <p>Nor is this any Extravagant Supposal, If (which God forbid) <hi>Popery</hi> should prevail amongst us; For us not above 150 years since, a poor honest <hi>Bookseller</hi> was burnt to death at <hi>Avignion</hi> in <hi>France,</hi> for no o<g ref="char:EOLhyphen"/>ther Crime but selling <hi>Bibles</hi> in <hi>French;</hi> and to de<g ref="char:EOLhyphen"/>note his Crime, two Bibles were sixt about his Neck,
+<pb n="16" facs="tcp:57093:170"/>and burnt with him, [See <hi>Foxes</hi> Acts and Monu<g ref="char:EOLhyphen"/>ments, fol. 861.] And here in <hi>England</hi> K.H. the 8th. on the 8th of <hi>July</hi> 1546. Issued a Proclamation re<g ref="char:EOLhyphen"/>quiring all <hi>English</hi> New Testaments to be brought in by such a day to the Constables in every Precinct, and so to the Sheriff to be <hi>Burnt;</hi> And that if after such day, any Person should be found to have any such Testament, or any part thereof in his Custo<g ref="char:EOLhyphen"/>dy, he should not only suffer <hi>Imprisonment</hi> and pu<g ref="char:EOLhyphen"/>nishment of his body at the Kings Will and Plea<g ref="char:EOLhyphen"/>sure, but also be <hi>Fined</hi> at the discretion of any 4 of his Majesties Council.</p>
+            </sp>
+            <sp>
+               <speaker>Grand-Jury-man.</speaker>
+               <p>God defend us from such times. But I pray let us retorn to our Discourse; I have observ'd, That in Indictments, Informations, <hi>&amp;c.</hi> There are certain words used which are seldom proved; As <hi>Vi &amp; Armis, Contra pacem, false, malitiose, &amp;c. With Force and arms against the Peace, falsly, ma<g ref="char:EOLhyphen"/>liciously, and the like;</hi> Pray therefore Inform me, Is it a sufficient Cause not to find a Bill, If the Jury have not Proof of These?</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>Here lies the <hi>Knot,</hi> the pinch of the Business, which rightly understood, would silence this Controversie for ever. You must note there<g ref="char:EOLhyphen"/>fore,
+<pb n="17" facs="tcp:57093:170"/>that sometimes these words are only <hi>of Course,</hi> or <hi>matter of Form,</hi> rais'd by a Just and reasonable Implication of Law; but sometimes they may be thrust in to raise a pretence or colour of <hi>Crime,</hi> where there is really none.</p>
+               <p>The <hi>Distinction</hi> therefore to be observ'd, is this; Where the Act, or matter of Fact charged, is in it self <hi>a Crime</hi> or offence against Law, there the Law does necessarily in Pleadings require and Imply those words; and If the Jury do find and are sa<g ref="char:EOLhyphen"/>tisfied, That the substance of the Charge is such a Crime, and the Person guilty thereof, They are bound <hi>to find it,</hi> though no direct proof be made of those <hi>Circumstantials.</hi>
+               </p>
+               <p>But where the Act, or matter of Fact is in it self <hi>I mocent</hi> or Indifferent, there the purport of these words is necessarily to be proved, for else there is <hi>no Crime,</hi> and consequently no fit matter to be put to a Tryal; In which Case the Grand Jury is bound in Conscience and Law to retorn an <hi>Ignoramus;</hi> and a Petty Jury, <hi>Not Guilty.</hi>
+               </p>
+               <p>For though some Gentlemen of the long Robe are pleas'd to call these words only, <hi>Pepper and Vi<g ref="char:EOLhyphen"/>negar,</hi> harmless sawce; yet if meerly for them, a Jury should pronounce a <hi>Billa vera</hi> or <hi>a Guilty,</hi> where the <hi>main dish</hi> is good and <hi>wholsome,</hi> they
+<pb n="18" facs="tcp:57093:171"/>would become <hi>rank poyson,</hi> and destroy all the Vital Liberties of the Nation.</p>
+            </sp>
+            <sp>
+               <speaker>Gr. Jury-man.</speaker>
+               <p>What then may be the design, That yet some People plead a Necessity of the Ju<g ref="char:EOLhyphen"/>ries finding <hi>all Bills,</hi> however worded or aggrava<g ref="char:EOLhyphen"/>ted, where the <hi>matter of Fact</hi> (as they call it) is proved?</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>I do not care whether there be <hi>any such</hi> People, or any such <hi>design.</hi> But this I know, That in the 11th year of K. <hi>Henry</hi> the 7th there was an <hi>Act of Parliament</hi> obtain'd on very specious Preten<g ref="char:EOLhyphen"/>ces, That Justices of Assize, and of the Peace should have full Power or Information for the King, <hi>with<g ref="char:EOLhyphen"/>out any Presentment of a Grand Jury, or Tryal by a Pet<g ref="char:EOLhyphen"/>ty Jury,</hi> To hear and determine at their <hi>Discretion,</hi> all offences &amp;c. <hi>By pretext of which Law</hi> (saith the Learned Lord <hi>Cook,</hi> 4 part <hi>Institutes,</hi> fol. 41.) <hi>Emp<g ref="char:EOLhyphen"/>son and Dudley</hi> (Two Judges, or Justices, for the latter is the Legal Title) <hi>and their followers, did com<g ref="char:EOLhyphen"/>mit upon the Subject unsufferable Pressures and Oppres<g ref="char:EOLhyphen"/>sions. And thereby brought infinite Treasures to the Kings Coffers, whereof the King himself</hi> (saith the same Reverend Author) <hi>in the end repented with great Grief and Compunction;</hi> And the Statute was repealed,
+<pb n="19" facs="tcp:57093:171"/>and the said <hi>False Justices,</hi> notwithstanding such their pretended Authority, (even of an Act of Par<g ref="char:EOLhyphen"/>liament, yet the same being against <hi>Magna Charta</hi> and the Fundamental Laws of the Land) were both fairly <hi>Beheaded,</hi> and no less than <hi>Seven</hi> of their little Instruments, Promoters, Informers, or what you please to call them, <hi>viz. Canby, Page, Smith, Derby, Wight, Sympson</hi> and <hi>Stockton,</hi> were set on the <hi>Pillory,</hi> and afterwards ordered to ride through <hi>London</hi>-Streets with their <hi>Faces towards the Horse Tail.</hi> With the same whereof <hi>the Rogues</hi> within 7 days after all dyed in Newgate. See <hi>Baker's</hi> Chro<g ref="char:EOLhyphen"/>nicle, fol. 254.</p>
+               <p>Now if there should be any such Design as you talk of, (which I neither know, nor can beleive) It must be to do the <hi>same thing</hi> in Effect <hi>by Colour of the Common-Law,</hi> which these Villains <hi>Empson and Dudley</hi> did by Pretence of a <hi>Statute-Law;</hi> For what real <hi>Difference</hi> is there between getting an Infor<g ref="char:EOLhyphen"/>mation or Indictment drawn by order of certain Justices against a Person, and Condemning and Fining him at their pleasure <hi>without any Jury</hi> at all, (which was the <hi>Empson</hi> and <hi>Dudley</hi>-way.) And causing and Indictment or Information stuff'd with <hi>hideous terms</hi> on an <hi>innocent</hi> indifferent matter of Fact, to be Presented to two Juries successively;
+<pb n="20" facs="tcp:57093:172"/>but <hi>withall telling them,</hi> they are bound not to consi<g ref="char:EOLhyphen"/>der whether such matter of Fact be indeed <hi>any Le<g ref="char:EOLhyphen"/>gal Crime,</hi> And so <hi>Trepanning</hi> (for I can call it no better, whether it be done by <hi>Wheadling</hi> or <hi>Menacing</hi> and huffing,) the said Juries, to find the Party <hi>Guilty;</hi> When in their own Consciences they do not believe he has committed any such Crime. And then shall come the said Justices, and upon such his Conviction, Sentence him to be <hi>Hang'd,</hi> or to <hi>stand in the Pillory,</hi> or be <hi>Fined</hi> so many Hundred Pounds (much more perhaps than the poor Crea<g ref="char:EOLhyphen"/>ture is worth; so that it amounts to an Imprison<g ref="char:EOLhyphen"/>ment from which only <hi>Death</hi> can Bail him:) And all this for that which is no <hi>real Breach</hi> of any Law either of God or his Native Countrey.</p>
+            </sp>
+            <sp>
+               <speaker>Grand-Jury-man.</speaker>
+               <p>This indeed were the grossest Injustice, the most horrid scandal that would be cast on the <hi>Laws of England,</hi> which have been ever Celebrated for the most Equal, Just, and Merciful in the World; and so much worse than the Practice of <hi>Empson</hi> and <hi>Dudley,</hi> because by this means, <hi>JU<g ref="char:EOLhyphen"/>RIES</hi> would be made use of as <hi>Stales</hi> and <hi>Proper<g ref="char:EOLhyphen"/>ties</hi> of oppression. But it is not to be <hi>supposed,</hi> That any Justices should offer, or suffer any such Indict<g ref="char:EOLhyphen"/>ments or Informations to be offered, to any Juries,
+<pb n="21" facs="tcp:57093:172"/>or attempt to perswade Juries to find them, where the matter thereof is not <hi>warranted by Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>I know not what you can suppose, nor do I complain, That any such thing <hi>has been attempt<g ref="char:EOLhyphen"/>ed,</hi> much less do I speak to disconrage any <hi>Just Pro<g ref="char:EOLhyphen"/>secutions</hi> of real Crimes and Misdemeanors; But I must tell you, That there are very wise men that <hi>suppose</hi> such things as we have been talking of, may possibly fall out, at least in <hi>another Age;</hi> For we are not Assured, That in all Generations there shall never be any <hi>Ill men</hi> put into Office; There may one day perhaps happen a little peevish Justice, or a <hi>Blustring</hi> Magistrate in some Village or other, that may be <hi>no mighty Witch</hi> at Law, and so igno<g ref="char:EOLhyphen"/>rantly may promote <hi>odd Fantastick</hi> Indictments; or may be a <hi>Creature of Ambition,</hi> and so willing to serve a Turn for <hi>Preferment,</hi> and may Endeavour to <hi>Hector Juries</hi> out of their <hi>Rights</hi> and their <hi>Wits,</hi> or a thousand other Accidents. And therefore why should it be left upon a fallible supposal, a meer <hi>Hap-hazard,</hi> or why must Ill Precedents be given? The Institution and very End of Juries is to pre<g ref="char:EOLhyphen"/>serve <hi>our Liberties</hi> from the wily Encroachments of oppression; And therefore 'tis the Right and Pri<g ref="char:EOLhyphen"/>viledge; nay I will add, 'tis the indispensable <hi>Duty</hi>
+                  <pb n="22" facs="tcp:57093:173"/>of <hi>Grand</hi> and other <hi>Juries,</hi> to Act like men of Judg<g ref="char:EOLhyphen"/>ment, Conscience and Courage in such Cases. For otherwise they <hi>Forswear</hi> themselves, grievously in<g ref="char:EOLhyphen"/>jure their Fellow-Subjects, betray the Freedomes of their Countrey, and open <hi>a Gapp</hi> for Slavery even in <hi>that very Hedge,</hi> which was purposely first <hi>plan<g ref="char:EOLhyphen"/>ted,</hi> and has time out of mind been so carefully preserved by our Ancestors, to keep it out.</p>
+            </sp>
+            <sp>
+               <speaker>Grand Jury-man.</speaker>
+               <p>Well, but if Juries do not give their Verdicts as the Court think fit, though the Jurors proceed uprightly according to the best of their Understanding and Consciences, yet may not the Court <hi>Fine</hi> or <hi>Imprison</hi> them.</p>
+            </sp>
+            <sp>
+               <speaker>Barrister.</speaker>
+               <p>No. The Law utterly Condemns any such Practice, as you may see undeniably proved in the before mentioned Treatise, call'd, <hi>The Eng<g ref="char:EOLhyphen"/>lish man's Right,</hi> p. 24. Nay, if any should presume to <hi>Menace</hi> or <hi>Reproach</hi> a Jury for giving their Ver<g ref="char:EOLhyphen"/>dict uprightly according to their Cousciences, It would be an High <hi>Misdemeanor;</hi> and such Insolence ought to be Corrected with <hi>Exemplary</hi> punishment.</p>
+            </sp>
+            <sp>
+               <speaker>Grand Jury-man.</speaker>
+               <p>Since Juries are so essential to our <hi>English</hi> Liberties, and of so <hi>great Use</hi> to the Na<g ref="char:EOLhyphen"/>tion,
+<pb n="23" facs="tcp:57093:173"/>Is it not great Pitty, That men best qualify'd both for <hi>Estates</hi> and <hi>Understandings</hi> for that Service, should oft-times use little under-hand Practises or small Bribes to the <hi>Officer</hi> that Summons them, to avoid it.</p>
+            </sp>
+            <sp>
+               <speaker>Barr.</speaker>
+               <p>'Tis both a pitty and <hi>a shame</hi> if any such thing be done, and ought likewise to be punished; For thereby Persons every way <hi>unfit</hi> may at last come to serve turn, and so Verdicts may become <hi>Mercinary,</hi> and People set up to <hi>make a Trade</hi> of being Jury-men; Whereas 'tis an Office that the <hi>best Com<g ref="char:EOLhyphen"/>moner</hi> in <hi>England,</hi> is neither too good nor too <hi>great</hi> to serve his King and Countrey in; Which I wish all <hi>Gentlemen</hi> would Consider, and readily dispose themselves to accept the same, when ever they shall legally be call'd unto it.</p>
+            </sp>
+            <sp>
+               <speaker>Gr. Jury-man.</speaker>
+               <p>I thank you, Sir heartily for the Information and good Advice you have given me in this matter, and shall Endeavour to discharge my Duty accordingly, As becomes a Christian, <hi>a Loyal Subject,</hi> and an upright <hi>Protestant Englishman.</hi>
+               </p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
